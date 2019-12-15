@@ -1,0 +1,33 @@
+2019-12-11 11:12:22.306 +08:00 [SkyWebApp] [Information] SkyApm.InstrumentStartup : Initializing ...
+2019-12-11 11:12:22.354 +08:00 [SkyWebApp] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2019-12-11 11:12:22.354 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2019-12-11 11:12:22.355 +08:00 [SkyWebApp] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2019-12-11 11:12:22.355 +08:00 [SkyWebApp] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2019-12-11 11:12:22.355 +08:00 [SkyWebApp] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2019-12-11 11:12:22.355 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2019-12-11 11:12:22.368 +08:00 [SkyWebApp] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2019-12-11 11:12:22.368 +08:00 [SkyWebApp] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2019-12-11 11:12:22.521 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[106.12.112.12:11800].
+2019-12-11 11:12:23.594 +08:00 [SkyWebApp] [Information] SkyApm.Service.RegisterService : Registered Service[Id=3].
+2019-12-11 11:12:24.226 +08:00 [SkyWebApp] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=5].
+2019-12-11 11:12:52.429 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/11 3:12:52 +00:00
+2019-12-11 11:12:55.347 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=5.14.15760339751180002.
+2019-12-11 11:12:55.492 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 1 trace segment. cost: 00:00:00.1254745s
+2019-12-11 11:12:59.556 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=5.9.15760339795160002.
+2019-12-11 11:12:59.734 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=5.9.15760339797000004.
+2019-12-11 11:12:59.911 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=5.12.15760339798760002.
+2019-12-11 11:13:00.087 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=5.12.15760339800520004.
+2019-12-11 11:13:01.438 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 4 trace segment. cost: 00:00:00.0822861s
+2019-12-11 11:13:52.409 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/11 3:13:52 +00:00
+2019-12-11 11:13:55.592 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=5.7.15760340355220002.
+2019-12-11 11:13:58.459 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0928489s
+2019-12-11 11:14:52.410 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/11 3:14:52 +00:00
+2019-12-11 11:15:52.422 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/11 3:15:52 +00:00
+2019-12-11 11:16:52.418 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/11 3:16:52 +00:00
+2019-12-11 11:17:52.418 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/11 3:17:52 +00:00
+2019-12-11 11:18:52.413 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/11 3:18:52 +00:00
+2019-12-11 11:19:52.422 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/11 3:19:52 +00:00
+2019-12-11 11:20:52.417 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/11 3:20:52 +00:00
+2019-12-11 11:21:52.407 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/11 3:21:52 +00:00
+2019-12-11 11:22:52.419 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/11 3:22:52 +00:00
+2019-12-11 11:23:52.428 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/11 3:23:52 +00:00

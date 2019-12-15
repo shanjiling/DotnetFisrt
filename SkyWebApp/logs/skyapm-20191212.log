@@ -1,0 +1,104 @@
+2019-12-12 14:16:33.665 +08:00 [SkyWebApp] [Information] SkyApm.InstrumentStartup : Initializing ...
+2019-12-12 14:16:33.703 +08:00 [SkyWebApp] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2019-12-12 14:16:33.704 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2019-12-12 14:16:33.704 +08:00 [SkyWebApp] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2019-12-12 14:16:33.704 +08:00 [SkyWebApp] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2019-12-12 14:16:33.704 +08:00 [SkyWebApp] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2019-12-12 14:16:33.704 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2019-12-12 14:16:33.715 +08:00 [SkyWebApp] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2019-12-12 14:16:33.716 +08:00 [SkyWebApp] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2019-12-12 14:16:33.842 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[180.76.232.110:11800].
+2019-12-12 14:16:34.878 +08:00 [SkyWebApp] [Information] SkyApm.Service.RegisterService : Registered Service[Id=4].
+2019-12-12 14:16:35.503 +08:00 [SkyWebApp] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=5].
+2019-12-12 14:17:03.766 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 6:17:03 +00:00
+2019-12-12 14:17:04.029 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=5.4.15761314239650002.
+2019-12-12 14:17:06.795 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0779675s
+2019-12-12 14:17:06.991 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=5.9.15761314269830002.
+2019-12-12 14:17:09.787 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0741946s
+2019-12-12 14:17:17.558 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=5.11.15761314375510002.
+2019-12-12 14:17:18.786 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0722136s
+2019-12-12 14:17:36.358 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=5.7.15761314563450002.
+2019-12-12 14:17:36.784 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0699258s
+2019-12-12 14:18:03.747 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 6:18:03 +00:00
+2019-12-12 14:18:26.887 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=5.9.15761315067260004.
+2019-12-12 14:18:27.789 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0759384s
+2019-12-12 14:18:31.994 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=5.11.15761315119420004.
+2019-12-12 14:18:33.790 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0785973s
+2019-12-12 14:19:03.757 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 6:19:03 +00:00
+2019-12-12 14:20:03.753 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 6:20:03 +00:00
+2019-12-12 14:20:06.388 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=5.11.15761316063500006.
+2019-12-12 14:20:06.664 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=5.34.15761316066400002.
+2019-12-12 14:20:06.804 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0875835s
+2019-12-12 14:21:03.751 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 6:21:03 +00:00
+2019-12-12 14:22:03.749 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 6:22:03 +00:00
+2019-12-12 14:23:03.781 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 6:23:03 +00:00
+2019-12-12 15:49:37.874 +08:00 [SkyWebApp] [Information] SkyApm.InstrumentStartup : Initializing ...
+2019-12-12 15:49:37.899 +08:00 [SkyWebApp] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2019-12-12 15:49:37.899 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2019-12-12 15:49:37.899 +08:00 [SkyWebApp] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2019-12-12 15:49:37.900 +08:00 [SkyWebApp] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2019-12-12 15:49:37.900 +08:00 [SkyWebApp] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2019-12-12 15:49:37.900 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2019-12-12 15:49:37.911 +08:00 [SkyWebApp] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2019-12-12 15:49:37.912 +08:00 [SkyWebApp] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2019-12-12 15:49:38.036 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[180.76.232.110:11800].
+2019-12-12 15:49:38.516 +08:00 [SkyWebApp] [Information] SkyApm.Service.RegisterService : Registered Service[Id=4].
+2019-12-12 15:49:39.116 +08:00 [SkyWebApp] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=6].
+2019-12-12 15:49:46.177 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=6.12.15761369859610002.
+2019-12-12 15:49:46.525 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=6.12.15761369864780004.
+2019-12-12 15:49:46.770 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=6.12.15761369867320006.
+2019-12-12 15:49:46.928 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=6.10.15761369868930002.
+2019-12-12 15:49:47.034 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 3 trace segment. cost: 00:00:00.0989480s
+2019-12-12 15:49:47.091 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=6.11.15761369870540002.
+2019-12-12 15:49:47.262 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=6.11.15761369872270004.
+2019-12-12 15:49:47.376 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=6.6.15761369873400002.
+2019-12-12 15:49:47.576 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=6.6.15761369875390004.
+2019-12-12 15:49:49.994 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 5 trace segment. cost: 00:00:00.0832775s
+2019-12-12 15:50:07.956 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 7:50:07 +00:00
+2019-12-12 15:51:01.264 +08:00 [SkyWebApp] [Information] SkyApm.InstrumentStartup : Initializing ...
+2019-12-12 15:51:01.322 +08:00 [SkyWebApp] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2019-12-12 15:51:01.323 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2019-12-12 15:51:01.323 +08:00 [SkyWebApp] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2019-12-12 15:51:01.323 +08:00 [SkyWebApp] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2019-12-12 15:51:01.323 +08:00 [SkyWebApp] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2019-12-12 15:51:01.324 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2019-12-12 15:51:01.337 +08:00 [SkyWebApp] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2019-12-12 15:51:01.338 +08:00 [SkyWebApp] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2019-12-12 15:51:01.738 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[180.76.232.110:11800].
+2019-12-12 15:51:02.015 +08:00 [SkyWebApp] [Information] SkyApm.Service.RegisterService : Registered Service[Id=4].
+2019-12-12 15:51:02.644 +08:00 [SkyWebApp] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=7].
+2019-12-12 15:51:05.912 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.7.15761370658570004.
+2019-12-12 15:51:06.076 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.6.15761370660400002.
+2019-12-12 15:51:06.266 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.13.15761370662240002.
+2019-12-12 15:51:06.432 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.9.15761370663860002.
+2019-12-12 15:51:06.606 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.6.15761370665540004.
+2019-12-12 15:51:06.786 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.13.15761370667220004.
+2019-12-12 15:51:06.925 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.6.15761370668820006.
+2019-12-12 15:51:07.073 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.9.15761370670330004.
+2019-12-12 15:51:07.258 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.9.15761370672200006.
+2019-12-12 15:51:07.470 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 9 trace segment. cost: 00:00:00.1292622s
+2019-12-12 15:51:25.823 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.10.15761370857300002.
+2019-12-12 15:51:28.405 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0700911s
+2019-12-12 15:51:29.330 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.11.15761370892810002.
+2019-12-12 15:51:29.489 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.9.15761370894430008.
+2019-12-12 15:51:29.671 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.11.15761370896300004.
+2019-12-12 15:51:29.837 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.9.15761370897920010.
+2019-12-12 15:51:30.010 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.12.15761370899320002.
+2019-12-12 15:51:30.152 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.6.15761370900890008.
+2019-12-12 15:51:30.312 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.9.15761370902600012.
+2019-12-12 15:51:30.478 +08:00 [SkyWebApp] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=7.6.15761370904300010.
+2019-12-12 15:51:31.402 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 8 trace segment. cost: 00:00:00.0672907s
+2019-12-12 15:51:31.427 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 7:51:31 +00:00
+2019-12-12 15:58:40.764 +08:00 [SkyWebApp] [Information] SkyApm.InstrumentStartup : Initializing ...
+2019-12-12 15:58:40.831 +08:00 [SkyWebApp] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2019-12-12 15:58:40.831 +08:00 [SkyWebApp] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2019-12-12 15:58:40.832 +08:00 [SkyWebApp] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2019-12-12 15:58:40.832 +08:00 [SkyWebApp] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2019-12-12 15:58:40.832 +08:00 [SkyWebApp] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2019-12-12 15:58:40.833 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2019-12-12 15:58:40.852 +08:00 [SkyWebApp] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2019-12-12 15:58:40.853 +08:00 [SkyWebApp] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2019-12-12 15:58:41.114 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[180.76.232.110:11800].
+2019-12-12 15:58:41.498 +08:00 [SkyWebApp] [Information] SkyApm.Service.RegisterService : Registered Service[Id=4].
+2019-12-12 15:58:42.124 +08:00 [SkyWebApp] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=8].
+2019-12-12 15:58:43.966 +08:00 [SkyWebApp] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 4 trace segment. cost: 00:00:00.1135091s

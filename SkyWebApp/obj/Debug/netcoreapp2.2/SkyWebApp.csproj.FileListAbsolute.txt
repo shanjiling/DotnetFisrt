@@ -1,0 +1,16 @@
+D:\2019-9-25\SkyWebApp\SkyWebApp\bin\Debug\netcoreapp2.2\skyapm.json
+D:\2019-9-25\SkyWebApp\SkyWebApp\bin\Debug\netcoreapp2.2\SkyWebApp.deps.json
+D:\2019-9-25\SkyWebApp\SkyWebApp\bin\Debug\netcoreapp2.2\SkyWebApp.runtimeconfig.json
+D:\2019-9-25\SkyWebApp\SkyWebApp\bin\Debug\netcoreapp2.2\SkyWebApp.runtimeconfig.dev.json
+D:\2019-9-25\SkyWebApp\SkyWebApp\bin\Debug\netcoreapp2.2\SkyWebApp.dll
+D:\2019-9-25\SkyWebApp\SkyWebApp\bin\Debug\netcoreapp2.2\SkyWebApp.pdb
+D:\2019-9-25\SkyWebApp\SkyWebApp\obj\Debug\netcoreapp2.2\SkyWebApp.csproj.CoreCompileInputs.cache
+D:\2019-9-25\SkyWebApp\SkyWebApp\obj\Debug\netcoreapp2.2\SkyWebApp.RazorAssemblyInfo.cache
+D:\2019-9-25\SkyWebApp\SkyWebApp\obj\Debug\netcoreapp2.2\SkyWebApp.RazorAssemblyInfo.cs
+D:\2019-9-25\SkyWebApp\SkyWebApp\obj\Debug\netcoreapp2.2\SkyWebApp.AssemblyInfoInputs.cache
+D:\2019-9-25\SkyWebApp\SkyWebApp\obj\Debug\netcoreapp2.2\SkyWebApp.AssemblyInfo.cs
+D:\2019-9-25\SkyWebApp\SkyWebApp\obj\Debug\netcoreapp2.2\SkyWebApp.RazorTargetAssemblyInfo.cache
+D:\2019-9-25\SkyWebApp\SkyWebApp\obj\Debug\netcoreapp2.2\SkyWebApp.dll
+D:\2019-9-25\SkyWebApp\SkyWebApp\obj\Debug\netcoreapp2.2\SkyWebApp.pdb
+D:\2019-9-25\SkyWebApp\SkyWebApp\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\2019-9-25\SkyWebApp\SkyWebApp\obj\Debug\netcoreapp2.2\SkyWebApp.csprojAssemblyReference.cache

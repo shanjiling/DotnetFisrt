@@ -1,0 +1,71 @@
+2019-12-12 17:45:36.869 +08:00 [SkyWebApp-test] [Information] SkyApm.InstrumentStartup : Initializing ...
+2019-12-12 17:45:36.895 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2019-12-12 17:45:36.895 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2019-12-12 17:45:36.896 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2019-12-12 17:45:36.896 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2019-12-12 17:45:36.897 +08:00 [SkyWebApp-test] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2019-12-12 17:45:36.897 +08:00 [SkyWebApp-test] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2019-12-12 17:45:36.903 +08:00 [SkyWebApp-test] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2019-12-12 17:45:36.904 +08:00 [SkyWebApp-test] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2019-12-12 17:45:36.986 +08:00 [SkyWebApp-test] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[180.76.232.110:11800].
+2019-12-12 17:45:38.022 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.RegisterService : Registered Service[Id=7].
+2019-12-12 17:45:38.632 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=14].
+2019-12-12 17:45:55.004 +08:00 [SkyWebApp-test] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 11 trace segment. cost: 00:00:00.0924831s
+2019-12-12 17:45:58.011 +08:00 [SkyWebApp-test] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 11 trace segment. cost: 00:00:00.1031935s
+2019-12-12 17:46:06.962 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 9:46:06 +00:00
+2019-12-12 17:46:15.984 +08:00 [SkyWebApp-test] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0774013s
+2019-12-12 17:46:18.969 +08:00 [SkyWebApp-test] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 9 trace segment. cost: 00:00:00.0589562s
+2019-12-12 17:47:06.938 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 9:47:06 +00:00
+2019-12-12 17:48:06.937 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 9:48:06 +00:00
+2019-12-12 17:49:06.941 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 9:49:06 +00:00
+2019-12-12 17:50:06.938 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 9:50:06 +00:00
+2019-12-12 17:51:06.938 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 9:51:06 +00:00
+2019-12-12 17:52:06.958 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 9:52:06 +00:00
+2019-12-12 17:53:06.938 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 9:53:06 +00:00
+2019-12-12 17:54:06.945 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 9:54:06 +00:00
+2019-12-12 17:55:06.940 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 9:55:06 +00:00
+2019-12-12 17:56:06.941 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 9:56:06 +00:00
+2019-12-12 17:57:06.945 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 9:57:06 +00:00
+2019-12-12 17:58:06.945 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 9:58:06 +00:00
+2019-12-12 17:59:06.952 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 9:59:06 +00:00
+2019-12-12 18:00:06.951 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:00:06 +00:00
+2019-12-12 18:01:06.949 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:01:06 +00:00
+2019-12-12 18:02:06.948 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:02:06 +00:00
+2019-12-12 18:03:06.961 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:03:06 +00:00
+2019-12-12 18:04:06.954 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:04:06 +00:00
+2019-12-12 18:05:06.958 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:05:06 +00:00
+2019-12-12 18:06:06.957 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:06:06 +00:00
+2019-12-12 18:07:06.962 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:07:06 +00:00
+2019-12-12 18:08:06.968 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:08:06 +00:00
+2019-12-12 18:09:06.959 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:09:06 +00:00
+2019-12-12 18:10:07.122 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:10:07 +00:00
+2019-12-12 18:11:06.959 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:11:06 +00:00
+2019-12-12 18:12:06.959 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:12:06 +00:00
+2019-12-12 18:13:06.958 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:13:06 +00:00
+2019-12-12 18:14:06.960 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:14:06 +00:00
+2019-12-12 18:15:06.962 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:15:06 +00:00
+2019-12-12 18:16:06.963 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:16:06 +00:00
+2019-12-12 18:17:06.960 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:17:06 +00:00
+2019-12-12 18:18:06.966 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:18:06 +00:00
+2019-12-12 18:19:06.964 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:19:06 +00:00
+2019-12-12 18:20:06.965 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:20:06 +00:00
+2019-12-12 18:21:06.966 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:21:06 +00:00
+2019-12-12 18:22:07.063 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:22:07 +00:00
+2019-12-12 18:23:07.071 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:23:07 +00:00
+2019-12-12 18:24:07.073 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:24:07 +00:00
+2019-12-12 18:25:07.085 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:25:07 +00:00
+2019-12-12 18:26:06.989 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:26:06 +00:00
+2019-12-12 18:27:06.978 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:27:06 +00:00
+2019-12-12 18:28:07.005 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:28:07 +00:00
+2019-12-12 18:29:07.011 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:29:07 +00:00
+2019-12-12 18:30:07.049 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:30:07 +00:00
+2019-12-12 18:31:06.998 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:31:06 +00:00
+2019-12-12 18:32:07.133 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:32:07 +00:00
+2019-12-12 18:33:07.410 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Ping server @2019/12/12 10:33:07 +00:00
+2019-12-12 18:33:53.451 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.RegisterService : Stopped instrument service RegisterService.
+2019-12-12 18:33:53.451 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.PingService : Stopped instrument service PingService.
+2019-12-12 18:33:53.451 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Stopped instrument service ServiceDiscoveryV5Service.
+2019-12-12 18:33:53.451 +08:00 [SkyWebApp-test] [Information] SkyApm.Service.SegmentReportService : Stopped instrument service SegmentReportService.
+2019-12-12 18:33:53.451 +08:00 [SkyWebApp-test] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Stopped instrument service SimpleCountSamplingInterceptor.
+2019-12-12 18:33:53.452 +08:00 [SkyWebApp-test] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Stopped instrument service ConnectService.
+2019-12-12 18:33:53.452 +08:00 [SkyWebApp-test] [Information] SkyApm.InstrumentStartup : Stopped SkyAPM .NET Core Agent.
